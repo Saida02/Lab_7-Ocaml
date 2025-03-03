@@ -1,0 +1,5 @@
+(executable
+ (name lab_07_2)
+ (modules Lab_07_2))
+
+
